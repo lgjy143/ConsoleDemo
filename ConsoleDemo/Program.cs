@@ -16,7 +16,7 @@ namespace ConsoleDemo
             BatchInsertTest2();
             Console.WriteLine();
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         } 
         /// <summary>
         /// Oracle普通堆积SQL
